@@ -17,6 +17,7 @@ If you have any questions, please contact to soonsoon@soonsoons.com
 Compatibility
 -----------------
 - Available for Unity 2019.4x or higher
+- Only for Unity Editor 
 
 -----------------
  How to use
