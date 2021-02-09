@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &861187907472368292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 861187907472368293}
+  - component: {fileID: 861187907472368290}
+  m_Layer: 0
+  m_Name: SPUM_Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &861187907472368293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861187907472368292}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &861187907472368290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861187907472368292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75342fe1d6ecf4d899773eb76f45e71f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _mainBody: {fileID: 2800000, guid: e02fee5a8643c475988de1404c29e83e, type: 3}
+  _maxNumber: 100
+  unitPath: Assets/Resources/SPUM/SPUM_Units/
+  _unitObjSet: {fileID: 0}
+  _textureList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _spriteObj: {fileID: 0}
+  _unitCode: {fileID: 0}
+  _unitNumber: {fileID: 0}
+  _drawItemObj: {fileID: 0}
+  _childItem: {fileID: 5577627943664093003, guid: 1634d8045e75445b7a39f6e29b9fca12,
+    type: 3}
+  _childPool: {fileID: 0}
+  _colorPicker: {fileID: 0}
+  _nowColorNum: 0
+  _colorButton:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _basicColor: {r: 0.4433962, g: 0.14849591, b: 0.14849591, a: 1}
+  _nowColor: {r: 0.4433962, g: 0.14849591, b: 0.14849591, a: 1}
+  _prefabUnitList: []
+  editObjNum: 0
+  _loadObjCanvas: {fileID: 0}
+  _loadPool: {fileID: 0}
+  _buttonList:
+  - {fileID: 0}
+  - {fileID: 0}
+  _toastObj: {fileID: 0}
+  _toastMSG: {fileID: 0}
+  _noticeObj: {fileID: 0}
+  _noticeText: {fileID: 0}
+  _buttonSet:
+  - {fileID: 0}
+  - {fileID: 0}
+  callbackNum: 0
