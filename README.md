@@ -14,6 +14,11 @@ If you've obtained SPUM via some other means then note that your license is effe
 If you have any questions, please contact to soonsoon@soonsoons.com
 
 -----------------
+Compatibility
+-----------------
+- Available for Unity 2019.4x or higher
+
+-----------------
  How to use
 -----------------
 1. Import this asset from asset store or Github(Free ver only)
