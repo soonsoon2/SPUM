@@ -1,8 +1,6 @@
+SPUM - Soonsoon Pixel Unit Maker	
 ----------------------------------------------
-SPUM : Soonsoon Pixel Unit Maker
-Copyright © 2021 Soonsoon
-Version 1.02
-----------------------------------------------
+Version 1.02	
 
 Thanks for buying SPUM for your game project!!
 
@@ -43,3 +41,6 @@ If you have any questions, please contact to soonsoon@soonsoons.com
 
 1.02
 - Fixed : Fixed Load Main Sprites
+
+-----------------
+Copyright © 2021 Soonsoon	
