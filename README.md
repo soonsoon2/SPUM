@@ -30,6 +30,15 @@ If you have any questions, please contact to soonsoon@soonsoons.com
 
 
 -----------------
+Video Tutotrial (How to use)
+-----------------
+Youtube Video Link
+https://youtu.be/TvxdkMMuC1A
+- provided by Korean Language. 
+- English subtitle will be provided soon.
+
+
+-----------------
  Version History
 -----------------
 
