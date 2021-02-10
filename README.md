@@ -18,6 +18,17 @@ Compatibility
 - Only for Unity Editor 
 
 -----------------
+Video Tutotrial (How to use)
+-----------------
+Youtube Video Link
+https://youtu.be/TvxdkMMuC1A
+
+[![](http://img.youtube.com/vi/TvxdkMMuC1A/0.jpg)](http://www.youtube.com/watch?v=TvxdkMMuC1A "SPUM-How to use")
+
+- provided by Korean Language. 
+- English subtitle will be provided soon.
+
+-----------------
  How to use
 -----------------
 1. Import this asset from asset store or Github(Free ver only)
@@ -33,17 +44,14 @@ Compatibility
 10. If it can't load or find Sprite data from Resources folder, you can re-install it with Reset "Reset Resources Data" button at bottom of SPUM_Manager object.
 
 
+
 -----------------
-Video Tutotrial (How to use)
+License
 -----------------
-Youtube Video Link
-https://youtu.be/TvxdkMMuC1A
 
-[![](http://img.youtube.com/vi/TvxdkMMuC1A/0.jpg)](http://www.youtube.com/watch?v=TvxdkMMuC1A "SPUM-How to use")
+- Character data created through SPUM can be used for personal, educational, team project, and commercial use.
 
-- provided by Korean Language. 
-- English subtitle will be provided soon.
-
+- The production tools provided by SPUM cannot be redistributed or used for commercial projects after reprocessing. If you want to use the tool itself after reprocessing, please contact the manufacturer.
 
 -----------------
  Version History
