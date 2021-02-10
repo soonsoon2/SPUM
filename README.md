@@ -38,6 +38,9 @@ Video Tutotrial (How to use)
 -----------------
 Youtube Video Link
 https://youtu.be/TvxdkMMuC1A
+
+<iframe width="560" height="315" src="https://youtu.be/TvxdkMMuC1A" frameborder="0" allowfullscreen></iframe>
+
 - provided by Korean Language. 
 - English subtitle will be provided soon.
 
