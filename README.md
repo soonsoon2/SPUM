@@ -2,8 +2,6 @@ SPUM - Soonsoon Pixel Unit Maker
 ----------------------------------------------
 Version 1.02	
 
-Thanks for buying SPUM for your game project!!
-
 PLEASE NOTE that SPUM can only be legally downloaded from the following 2 sources:
 
   1. Unity Asset Store (Standard License)
