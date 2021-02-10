@@ -39,7 +39,7 @@ Video Tutotrial (How to use)
 Youtube Video Link
 https://youtu.be/TvxdkMMuC1A
 
-[![SPUM How to use](https://img.youtube.com/vi/TvxdkMMuC1A0.jpg)](https://www.youtube.com/watch?v=TvxdkMMuC1A)
+[![](http://img.youtube.com/vi/TvxdkMMuC1A/0.jpg)](http://www.youtube.com/watch?v=TvxdkMMuC1A "SPUM-How to use")
 
 - provided by Korean Language. 
 - English subtitle will be provided soon.
