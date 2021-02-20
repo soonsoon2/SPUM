@@ -5,7 +5,8 @@ Version 1.02
 PLEASE NOTE that SPUM can only be legally downloaded from the following 2 sources:
 
   1. Unity Asset Store (Standard License)
-  2. Github (Free License)
+      -Link :  http://u3d.as/2mLe
+  3. Github (Free License)
 
 If you've obtained SPUM via some other means then note that your license is effectively invalid, as Soonsoon cannot provide support for pirated and/or potentially modified software.
 
