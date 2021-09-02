@@ -882,7 +882,13 @@ public class SPUM_Manager : MonoBehaviour
 
     IEnumerator CaptureTempArea() {
         yield return new WaitForEndOfFrame();
+
+        #if ENABLE_LEGACY_INPUT_MANAGER
         Vector2 pos = EventSystem.current.currentInputModule.input.mousePosition;
+        #elif ENABLE_INPUT_SYSTEM
+        Vector2 pos = Mouse.current.position.ReadValue();
+        #endif
+
         tex.ReadPixels(new Rect(pos.x, pos.y, 1, 1), 0, 0);
         tex.Apply();
         _nowColor = tex.GetPixel(0, 0);
