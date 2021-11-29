@@ -36,7 +36,7 @@ How to make image sprite for your SPUM project
 
 https://youtu.be/Y9NjBq5W2VU
 
-[![](http://img.youtube.com/vi/Y9NjBq5W2VU/0.jpg)](http://www.youtube.com/watch?v=Y9NjBq5W2VU "SPUM-How to make image sprite")
+[![](http://img.youtube.com/vi/Uh_zIsBnlCY/0.jpg)](https://youtu.be/Uh_zIsBnlCY "SPUM-How to make image sprite")
 
 
 
@@ -44,7 +44,7 @@ How to import image sprite in your SPUM unity project
 
 https://youtu.be/LH8rrBQ1yvw
 
-[![](http://img.youtube.com/vi/LH8rrBQ1yvw/0.jpg)](http://www.youtube.com/watch?v=LH8rrBQ1yvw "SPUM-How to import image sprite")
+[![](http://img.youtube.com/vi/XD29XkRLtXs/0.jpg)](https://youtu.be/XD29XkRLtXs "SPUM-How to import image sprite")
 
 
 
@@ -52,7 +52,7 @@ Explain SPUM animation system for custom animation
 
 https://youtu.be/ckokhfsjoCI
 
-[![](http://img.youtube.com/vi/ckokhfsjoCI/0.jpg)](http://www.youtube.com/watch?v=ckokhfsjoCI "SPUM-Explin SPUM animation system")
+[![](http://img.youtube.com/vi/uuY0DuxxlLM/0.jpg)](https://youtu.be/uuY0DuxxlLM "SPUM-Explin SPUM animation system")
 
 
 -----------------
