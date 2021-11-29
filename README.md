@@ -25,7 +25,7 @@ Youtube Video Link
 
 https://youtu.be/TvxdkMMuC1A
 
-[![](http://img.youtube.com/vi/TvxdkMMuC1A/0.jpg)](http://www.youtube.com/watch?v=TvxdkMMuC1A "SPUM-How to use")
+[![](http://img.youtube.com/vi/tZOcaihiotA/0.jpg)](https://youtu.be/tZOcaihiotA "SPUM-How to use")
 
 - provided by Korean Language. 
 - English subtitle will be provided soon.
