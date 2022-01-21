@@ -86,6 +86,8 @@ License
 
 - The production tools provided by SPUM cannot be redistributed or used for commercial projects after reprocessing. If you want to use the tool itself after reprocessing, please contact the manufacturer.
 
+- You cannot use the basic design resources provided in this version to make products such as NFT. If you want to use nft, please contact soonsoon@soonsoons.com. 
+
 -----------------
  Version History
 -----------------
