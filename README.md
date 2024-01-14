@@ -1,8 +1,10 @@
 Documentation
 ----------------------------------------------
-This is spum documentation for english language.
-
+This is spum documentation for english language.  
 https://github.com/soonsoon2/SPUM/wiki
+
+한글 위키 문서는 아래 링크를 참조해주세요.  
+https://github.com/soonsoon2/SPUM/wiki/Home-ko-KR
 
 
 SPUM - Soonsoon Pixel Unit Maker(Free Version)
